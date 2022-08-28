@@ -1,0 +1,18 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "mertcanozluk",
+    "chain-id": "GAIA",
+    "rpc-addr": "http://77.92.132.67:23657",
+    "account-prefix": "cosmos",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.001uatom",
+    "gas": 200000,
+    "debug": true,
+    "timeout": "20s",
+    "trusting period" : "8h",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
